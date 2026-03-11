@@ -70,5 +70,3 @@ Python libraries used in this project include:
 - **Contextily** – adding basemaps to spatial plots
 
 ---
-
-## Project Structure
